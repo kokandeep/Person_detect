@@ -73,12 +73,12 @@ def gen():
     
     tracker = CentroidTracker(maxDisappeared=80, maxDistance=90)
 
-    # cap = cv2.VideoCapture('768x576.avi')
-    CAMERA = True
-    if CAMERA:
-	    cap = cv2.VideoCapture(0)
-    else:
-	    cap = cv2.VideoCapture('768x576.avi')
+    cap = cv2.VideoCapture('768x576.avi')
+    # CAMERA = True
+    # if CAMERA:
+	#     cap = cv2.VideoCapture(0)
+    # else:
+	#     cap = cv2.VideoCapture('768x576.avi')
 
     while(cap.isOpened()):
         ret, frame = cap.read()
