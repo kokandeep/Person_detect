@@ -13,8 +13,13 @@ In this project you can give a video to detect person in it or you can just dete
 
 ## Run Locally
 
+Open the command prompt and then start typing the following:-
+
 Clone the repository
 ```bash
   git clone https://github.com/kokandeep/person_detect.git
 ```
-
+Go to project directory
+```bash
+  cd person_detect-main
+```
