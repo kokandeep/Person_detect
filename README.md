@@ -4,12 +4,12 @@ In this project you can give a video to detect person in it or you can just dete
 
 ## Requirements
 
-pip install time
-pip install opencv-python
-pip install imutils
-pip install numpy
-pip install flask
-pip install requests
+* pip install time
+* pip install opencv-python
+* pip install imutils
+* pip install numpy
+* pip install flask
+* pip install requests
 
 
 
