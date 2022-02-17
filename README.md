@@ -32,7 +32,9 @@ Run app file
   python app.py
 ```
 
+* In this project i have given one video named "768x576.avi" when you run the project then it will detect the peoples in that video.
 
+## Thank You
 
 
 
