@@ -14,5 +14,7 @@ In this project you can give a video to detect person in it or you can just dete
 ## Run Locally
 
 Clone the repository
-[https://github.com/kokandeep/person_detect.git]
+```bash
+  git clone https://github.com/kokandeep/person_detect.git
+```
 
