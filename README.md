@@ -11,5 +11,8 @@ In this project you can give a video to detect person in it or you can just dete
 * pip install flask
 * pip install requests
 
+## Run Locally
 
+Clone the repository
+(https://github.com/kokandeep/person_detect.git)
 
